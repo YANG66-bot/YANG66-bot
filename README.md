@@ -68,18 +68,11 @@
 ### 📊 GitHub 统计数据 (Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" alt="Mingxue's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Langs" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YANG66-bot&theme=tokyonight" alt="GitHub Streak" width="94%" />
 </p>
 
 ---
 
 ### 🤝 联系我 (Connect with me)
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Blog**: [你的个人博客或掘金/知乎链接](https://example.com)
-- **PlantUML Gallery**: [如果有名下的开源架构设计图仓库可以放这里]
+- **Email**: [yangmingxue0927@gmail.com](mailto:yangmingxue0927@gmail.com)
