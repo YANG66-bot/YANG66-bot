@@ -63,21 +63,6 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YANG66-bot&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&icon_color=00ADD8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YANG66-bot&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&text_color=333333&icon_color=36BCF7">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YANG66-bot&show_icons=true&theme=transparent&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YANG66-bot&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YANG66-bot&layout=compact&theme=transparent&hide_border=true&title_color=00ADD8&text_color=333333">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YANG66-bot&layout=compact&theme=transparent&hide_border=true">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YANG66-bot/YANG66-bot/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YANG66-bot/YANG66-bot/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YANG66-bot/YANG66-bot/output/github-contribution-grid-snake.svg">
