@@ -3,7 +3,7 @@
   
   <br/>
   
-  <img src="src/header_.png" alt="Banner" width="80%" />
+  <img src="src/header_.png" alt="Banner" width="100%" />
   
   <br/>
   <br/>
