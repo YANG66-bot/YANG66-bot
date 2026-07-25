@@ -60,14 +60,6 @@ Backend engineer interested in **high-performance distributed systems** and **pr
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YANG66-bot/YANG66-bot/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YANG66-bot/YANG66-bot/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/YANG66-bot/YANG66-bot/output/github-contribution-grid-snake.svg" width="90%">
-</picture>
-
-<br />
-
 ### Let's build something meaningful.
 
 <a href="mailto:yangmingxue0927@gmail.com">
