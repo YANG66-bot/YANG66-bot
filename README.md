@@ -1,8 +1,12 @@
 <div align="center">
 
-# Mingxue Yang
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F7FBFF,EAF7FF,F0FFFA&height=180&section=header&text=Mingxue+Yang&fontSize=48&fontColor=1677B8&animation=fadeIn" alt="Mingxue Yang" width="100%" />
 
-**Backend Engineer | Distributed Systems | AI Applications**
+### Backend Engineer | Distributed Systems | AI Applications
+
+<a href="https://github.com/YANG66-bot">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=1677B8&center=true&vCenter=true&width=620&lines=Building+reliable+backend+systems;Exploring+AI+applications;Designing+clean+and+scalable+services" alt="Typing SVG" />
+</a>
 
 <a href="https://github.com/YANG66-bot">GitHub</a> |
 <a href="mailto:yangmingxue0927@gmail.com">Email</a>
@@ -28,31 +32,24 @@ Backend engineer interested in **high-performance distributed systems** and **pr
 
 <div align="center">
 
-**Languages**
+<p><strong>Languages</strong></p>
 
-<img src="https://img.shields.io/badge/Java-1677B8?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-1677B8?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-1677B8?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-1677B8?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java,go,rust,ts&theme=light" alt="Java, Go, Rust, and TypeScript" />
 
 <br />
 
-**Backend & Architecture**
+<p><strong>Backend & Architecture</strong></p>
 
-<img src="https://img.shields.io/badge/Spring_Boot-1677B8?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Cloud-1677B8?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-1677B8?style=flat-square&logo=grpc&logoColor=white" />
-<img src="https://img.shields.io/badge/Project_Panama-1677B8?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=spring,java,docker,kubernetes,postgres,mysql&theme=light" alt="Spring, Java, Docker, Kubernetes, PostgreSQL, and MySQL" />
 
 <br />
 
-**AI & Frontend**
+<p><strong>AI & Frontend</strong></p>
 
-<img src="https://img.shields.io/badge/Spring_AI-1677B8?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain4j-1677B8?style=flat-square" />
-<img src="https://img.shields.io/badge/Vue.js-1677B8?style=flat-square&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-1677B8?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/uni--app-1677B8?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=python,vue,react,js,html,css&theme=light" alt="Python, Vue, React, JavaScript, HTML, and CSS" />
+
+<br />
+<sub>Also exploring: Spring Cloud | gRPC | Project Panama | Spring AI | LangChain4j | uni-app</sub>
 
 </div>
 
@@ -63,6 +60,14 @@ Backend engineer interested in **high-performance distributed systems** and **pr
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YANG66-bot/YANG66-bot/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YANG66-bot/YANG66-bot/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/YANG66-bot/YANG66-bot/output/github-contribution-grid-snake.svg" width="90%">
+</picture>
+
+<br />
+
 ### Let's build something meaningful.
 
 <a href="mailto:yangmingxue0927@gmail.com">
@@ -70,3 +75,5 @@ Backend engineer interested in **high-performance distributed systems** and **pr
 </a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F7FBFF,EAF7FF,F0FFFA&height=90&section=footer" alt="Footer" width="100%" />
