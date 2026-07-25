@@ -11,11 +11,6 @@
 <a href="https://github.com/YANG66-bot">GitHub</a> |
 <a href="mailto:yangmingxue0927@gmail.com">Email</a>
 
-<br />
-<br />
-
-<img src="src/header_.png" alt="Technology banner" width="100%" />
-
 </div>
 
 ---
