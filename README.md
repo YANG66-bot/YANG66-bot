@@ -29,7 +29,7 @@ Backend engineer interested in **high-performance distributed systems** and **pr
 
 <p><strong>Languages</strong></p>
 
-<img src="https://skillicons.dev/icons?i=java,go,cpp,ts&theme=light" alt="Java, Go, C++, and TypeScript" />
+<img src="https://skillicons.dev/icons?i=java,cpp,ts,python&theme=light" alt="Java, C++, TypeScript, and Python" />
 
 <br />
 
@@ -41,7 +41,7 @@ Backend engineer interested in **high-performance distributed systems** and **pr
 
 <p><strong>AI & Frontend</strong></p>
 
-<img src="https://skillicons.dev/icons?i=python,vue,react,js,html,css&theme=light" alt="Python, Vue, React, JavaScript, HTML, and CSS" />
+<img src="https://skillicons.dev/icons?i=vue,react,js,html,css&theme=light" alt="Vue, React, JavaScript, HTML, and CSS" />
 
 <br />
 <sub>Also exploring: Spring Cloud | gRPC | Project Panama | Spring AI | LangChain4j | uni-app</sub>
@@ -50,7 +50,7 @@ Backend engineer interested in **high-performance distributed systems** and **pr
 
 ## Current Interests
 
-- **Distributed systems:** Hybrid services across `Java (Spring)`, `Go`, and `C++`, connected through **gRPC** and **Project Panama**.
+- **Distributed systems:** Hybrid services across `Java (Spring)` and `C++`, connected through **gRPC** and **Project Panama**.
 - **AI platforms:** Semantic search, dynamic retrieval, and intelligent recommendations powered by **Spring AI**.
 
 <div align="center">
