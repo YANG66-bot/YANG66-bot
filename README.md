@@ -29,7 +29,7 @@ Backend engineer interested in **high-performance distributed systems** and **pr
 
 <p><strong>Languages</strong></p>
 
-<img src="https://skillicons.dev/icons?i=java,go,rust,ts&theme=light" alt="Java, Go, Rust, and TypeScript" />
+<img src="https://skillicons.dev/icons?i=java,go,cpp,ts&theme=light" alt="Java, Go, C++, and TypeScript" />
 
 <br />
 
@@ -50,7 +50,7 @@ Backend engineer interested in **high-performance distributed systems** and **pr
 
 ## Current Interests
 
-- **Distributed systems:** Hybrid services across `Java (Spring)`, `Go`, and `Rust`, connected through **gRPC** and **Project Panama**.
+- **Distributed systems:** Hybrid services across `Java (Spring)`, `Go`, and `C++`, connected through **gRPC** and **Project Panama**.
 - **AI platforms:** Semantic search, dynamic retrieval, and intelligent recommendations powered by **Spring AI**.
 
 <div align="center">
