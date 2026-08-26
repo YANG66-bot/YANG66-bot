@@ -49,7 +49,7 @@ I am a Computer Science and Technology student focused on building backend syste
 
 <p><strong>Languages</strong></p>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,ts,go&theme=light" alt="Java, C++, Python, TypeScript, and Go" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,go&theme=light" alt="Java, C++, Python, TypeScript, and Go" />
 
 <br />
 
