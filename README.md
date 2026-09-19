@@ -111,27 +111,6 @@ I am a Computer Science and Technology student focused on backend engineering, d
 | AI platforms | Semantic search, dynamic retrieval, and intelligent recommendations |
 | Engineering practice | Clean workflows, system internals, and scalable service design |
 
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YANG66-bot&show_icons=true&hide_border=true&rank_icon=github&title_color=38BDF8&icon_color=2DD4BF&text_color=C7D2FE&bg_color=0B1220" alt="Mingxue Yang's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YANG66-bot&layout=compact&hide_border=true&title_color=38BDF8&text_color=C7D2FE&bg_color=0B1220" alt="Mingxue Yang's top programming languages" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YANG66-bot&bg_color=0B1220&color=C7D2FE&line=38BDF8&point=2DD4BF&area=true&hide_border=true" alt="Mingxue Yang's GitHub contribution activity graph" width="96%" />
-
-</div>
-
-## Contribution map
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YANG66-bot/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="96%" />
-
-</div>
-
 ## Let's connect
 
 If you are interested in backend architecture, distributed systems, or practical AI engineering, I would be happy to exchange ideas.
