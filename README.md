@@ -84,7 +84,7 @@ I am a Computer Science and Technology student focused on backend engineering, d
 <div align="center">
 
 <p><strong>Languages</strong></p>
-<img src="https://skillicons.dev/icons?i=kotlin,python,ts,rust,cpp&theme=dark" alt="Java, Python, TypeScript, Rust, and C++" />
+<img src="https://skillicons.dev/icons?i=kotlin,python,cpp&theme=dark" alt="Java, Python, TypeScript, Rust, and C++" />
 
 <br />
 
